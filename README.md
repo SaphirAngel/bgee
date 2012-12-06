@@ -2,7 +2,7 @@ Bonjour et bienvenue sur le dépot des fichiers bgee modifiées par SaphirAngel.
 
 Mise à jour du 06/12/2012
 - id 10292 : "fur forgé" --> "fut forgé" (suggéré par @Dritzeen)
-- id 20424 : "recevrait" --> "recevait" (suggéré par @Dritzeen)
+- id 20434 : "recevrait" --> "recevait" (suggéré par @Dritzeen)
 - id 28469 : "si vous devons" --> "si nous devons" (suggéré par @Rib)
 
 INSTALLATION :
