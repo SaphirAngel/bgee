@@ -4,6 +4,8 @@ Mise à jour du 06/12/2012
 - id 10292 : "fur forgé" --> "fut forgé" (suggéré par @Dritzeen)
 - id 20434 : "recevrait" --> "recevait" (suggéré par @Dritzeen)
 - id 28469 : "si vous devons" --> "si nous devons" (suggéré par @Rib)
+- id 25012 --> mettre "Fléau d'armes/Morgenstern" (au lieu de "Fléau d'armes" tout court)
+- id 25013 --> mettre "Masse d'armes" (au lieu de "Masse d'armes/Morgenstern")
 
 INSTALLATION :
 - Téléchargez les deux fichiers tlk dans le dossier Data\00766\lang\fr_FR de votre jeux.
