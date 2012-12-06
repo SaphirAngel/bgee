@@ -6,7 +6,7 @@ Mise à jour du 06/12/2012
 - id 28469 : "si vous devons" --> "si nous devons" (suggéré par @Rib)
 - id 25012 : "Fléau d'armes" --> "Fléau d'armes/Morgenstern" (suggéré par @La_Voix)
 - id 25013 : "Masse d'armes/Morgenstern" --> "Masse d'armes" (suggéré par @La_Voix)
-- id 510 : "Bien sûr, telles sont les lois" --> "Bien sûr, quelles sont les lois" (suggéré par @Dritzeen)
+- id 510 : "Bien sûr, telles sont les règles" --> "Bien sûr, quelles sont les règles" (suggéré par @Dritzeen)
 
 
 INSTALLATION :
