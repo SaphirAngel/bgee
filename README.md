@@ -3,6 +3,7 @@ Bonjour et bienvenue sur le dépot des fichiers bgee modifiées par SaphirAngel.
 Mise à jour du 07/12/2012
 - id 5169 : "[DOPPELGANGER 04] ] Inutile" --> [DOPPELGANGER 04] Inutile" (suggéré par @AvoK)
 - id 3018 : "compirs" --> "compris" (suggéré par @AvoK)
+- id 24025 : "dans le gosier qui me fait tort" --> "dans le gosier qui me fait du tort" (suggéré par @Dritzeen)
 
 Mise à jour du 06/12/2012
 - id 10292 : "fur forgé" --> "fut forgé" (suggéré par @Dritzeen)
