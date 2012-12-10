@@ -1,5 +1,23 @@
 Bonjour et bienvenue sur le dépot des fichiers bgee modifiées par SaphirAngel.
 
+
+Mise à jour du 10/12/2012
+- Ajout des phrases présent dans le fichier en_US (à traduire :))
+	- id 31848 : Irritated by Glass Dust
+	- id 31849 : Ted
+	- id 31850 : Fist +1
+	- id 31851 : Fist +2
+	- id 31852 : Fist +3
+	- id 31853 : Fist +4
+	- id 31854 : Charm Fire Elemental
+- id 961 : "laissez" --> "laisser" (suggéré par @Lothringen)
+- id 11852 : correction des dégâts supplémentaires de la dague de venin (suggéré par @Aranthys)
+- id 21259 : "quant il fut" --> "quand il fut" (suggéré par @Maximaxou)
+- id 21353 : "coup" --> "cou" (suggéré par @Dritzeen)
+- id 23998 : "boulot" --> "bouleau" (suggéré par @Dritzeen)
+- id 30460 : "c'est moi qui ait" --> "c'est moi qui ai" (suggéré par @Lothringen)
+- id 31464 : "il c'est" --> "il s'est" (suggéré par @Erkios)
+
 Mise à jour du 07/12/2012
 - id 5169 : "[DOPPELGANGER 04] ] Inutile" --> [DOPPELGANGER 04] Inutile" (suggéré par @AvoK)
 - id 3018 : "compirs" --> "compris" (suggéré par @AvoK)
