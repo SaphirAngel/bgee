@@ -1,5 +1,7 @@
 Bonjour et bienvenue sur le dépot des fichiers bgee modifiées par SaphirAngel.
 
+Mise à jour du 11/12/2012
+- id 29068 : "des attaque" --> "des attaques" (suggéré par @Lothringen)
 
 Mise à jour du 10/12/2012
 - Ajout des phrases présent dans le fichier en_US (à traduire :))
