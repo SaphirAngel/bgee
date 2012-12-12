@@ -1,5 +1,11 @@
 Bonjour et bienvenue sur le dépot des fichiers bgee modifiées par SaphirAngel.
 
+Mise à jour du 12/12/2012
+- id 12154 & 26345 : correction du double "peut" (suggéré par @Marcmad)
+- id 29989 : "donné" --> "donnés" (suggéré par @Lothringen)
+- id 30088 : "avoir rejoins" --> "avoir rejoint" (suggéré par @Lothringen)
+- id 30153 : "lancez le" --> "lancez-le" (suggéré par @Lothringen)
+
 Mise à jour du 11/12/2012
 - id 29068 : "des attaque" --> "des attaques" (suggéré par @Lothringen)
 
